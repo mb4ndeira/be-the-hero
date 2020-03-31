@@ -12,6 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 
 
+
 <h1 align="center">
     <img alt="BeTheHero" title="#BeTheHero" src="./gallery/login.jpg"/>
 </h1>
