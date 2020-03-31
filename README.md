@@ -2,7 +2,6 @@
     <img alt="BeTheHero" title="#BeTheHero" src="./frontend/src/assets/logo.svg" width="250px" />
 </h1>
 
-<br>
 
 ### Tecnologias
 
@@ -15,12 +14,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
-
-
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
----
 
 
