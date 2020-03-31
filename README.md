@@ -11,6 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
+
 <h1 align="center">
     <img alt="BeTheHero" title="#BeTheHero" src="./gallery/login.jpg"/>
 </h1>
