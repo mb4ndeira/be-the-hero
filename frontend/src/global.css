@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    font: 400 14px Roboto, sans-serif;
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+}
+
+input, button, textarea {
+    font: 400 14px Roboto, sans-serif;
+}
+
+form input {
+    width: 100%;
+    height: 60px;
+    color: #333;
+    border: 1px solid #dcdce6;
+    border-radius: 8px;
+    padding: 0 2.4rem;
+    font-size: 1.8rem;
+    line-height: 2.1rem;
+}
+
+form textarea {
+    width: 100%;
+    resize: vertical ;
+    min-height: 140px;
+    color: #333;
+    border: 1px solid #dcdce6;
+    border-radius: 8px;
+    padding: 16px 24px;
+    font-size: 1.8rem;
+    line-height: 2.4rem;
+}
+
+.button {
+    width: 100%;
+    height: 60px;
+    background-color: #e02041;
+    border-radius: 8px;
+    color: #fff;
+    font-weight: 700;
+    margin-top: 16px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.8rem;
+    line-height: 6rem;
+    transition: filter 0.2s;
+}
+
+button:hover {
+    filter: brightness(90%);
+}
+
+.backlink svg {
+    margin-right: 8px;
+}
+
+.backlink {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    color: #41414d;
+    font-size: 1.8rem;
+    text-decoration: none;
+    font-weight: 500;
+    transition: opacity 0.2s;
+}
+
+.backlink:hover {
+    opacity: 0.8;
+}
