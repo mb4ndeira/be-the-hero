@@ -4,7 +4,7 @@
 
 ### Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [NodeJS](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org)
@@ -25,9 +25,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is licensed under the MIT license. Read the file [LICENSE](LICENSE.md) for more details.
 
 
 
