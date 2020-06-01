@@ -2,7 +2,7 @@
     <img alt="BeTheHero" title="#BeTheHero" src="./frontend/src/assets/logo.svg" width="250px" />
 </h1>
 
-### Tecnologias
+### Technologies
 
 This project was developed with the following technologies:
 
