@@ -38,7 +38,7 @@
 
 <br>
 
-## 📷: Gallery ##
+## 📷 Gallery ##
 
 <img src="https://github.com/mb4ndeira/SemanaOmnistack_11/blob/master/gallery/login.jpg" alt="Be The Hero" />
 
