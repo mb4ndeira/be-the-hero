@@ -6,13 +6,13 @@
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mb4ndeira/semana-omnistack-11?color=f0db4f">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mb4ndeira/be-the-hero?color=f0db4f">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mb4ndeira/semana-omnistack-11?color=f0db4f">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mb4ndeira/be-the-hero?color=f0db4f">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mb4ndeira/semana-omnistack-11?color=df2041">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mb4ndeira/be-the-hero?color=df2041">
 
-  <img alt="License" src="https://img.shields.io/github/license/mb4ndeira/semana-omnistack-11">
+  <img alt="License" src="https://img.shields.io/github/license/mb4ndeira/be-the-hero">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/mb4ndeira/semanaomnistack_11-master?color=56BEB8" /> -->
 
