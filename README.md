@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://github.com/mb4ndeira/SemanaOmnistack_11/blob/master/frontend/src/assets/logo.svg" alt="Be The Hero" />
+  <img src="https://github.com/mb4ndeira/be-the-hero/blob/master/frontend/src/assets/logo.svg" alt="Be The Hero" />
 
   &#xa0;
 
@@ -34,16 +34,16 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; &#xa0;
+  <a href="#memo-license">License</a> &#xa0;
 </p>
 
 <br>
 
 ## 📷 Gallery ##
 
-<img src="https://github.com/mb4ndeira/SemanaOmnistack_11/blob/master/gallery/login.jpg" alt="Be The Hero" />
+<img src="https://github.com/mb4ndeira/be-the-hero/blob/master/gallery/login.jpg" alt="Be The Hero" />
 
-<img src="https://github.com/mb4ndeira/SemanaOmnistack_11/blob/master/gallery/mobile.png" alt="Be The Hero" />
+<img src="https://github.com/mb4ndeira/be-the-hero/blob/master/gallery/mobile.png" alt="Be The Hero" />
 
 ## :rocket: Technologies ##
 
@@ -63,10 +63,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/mb4ndeira/semanaomnistack_11-master
+$ git clone https://github.com/mb4ndeira/be-the-hero
 
 # Access
-$ cd semanaomnistack_11-master
+$ cd be-the-hero
 
 # Install dependencies
 $ yarn
