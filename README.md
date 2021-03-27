@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://github.com/mb4ndeira/be-the-hero/blob/master/frontend/src/assets/logo.svg" alt="Be The Hero" />
+  <img src="/frontend/src/assets/logo.svg" alt="Be The Hero" />
 
   &#xa0;
 
@@ -41,9 +41,9 @@
 
 ## 📷 Gallery ##
 
-<img src="https://github.com/mb4ndeira/be-the-hero/blob/master/gallery/login.jpg" alt="Be The Hero" />
+<img src="gallery/login.jpg" alt="Be The Hero" />
 
-<img src="https://github.com/mb4ndeira/be-the-hero/blob/master/gallery/mobile.png" alt="Be The Hero" />
+<img src="gallery/mobile.png" alt="Be The Hero" />
 
 ## :rocket: Technologies ##
 
