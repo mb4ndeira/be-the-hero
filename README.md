@@ -41,9 +41,9 @@
 
 ## 📷 Gallery ##
 
-<img src="gallery/login.jpg" alt="Be The Hero" />
+<img src="/gallery/login.jpg" alt="Be The Hero" />
 
-<img src="gallery/mobile.png" alt="Be The Hero" />
+<img src="/gallery/mobile.png" alt="Be The Hero" />
 
 ## :rocket: Technologies ##
 
